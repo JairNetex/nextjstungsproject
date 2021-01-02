@@ -8,10 +8,10 @@ export default function Home() {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
     <title>Happy</title>
-    <link rel="icon" href="./public/images/logo-icon.png">
-    <link rel="stylesheet" href="./public/css/main.css">
-    <link rel="stylesheet" href="./public/css/page-landing.css">
-    <link rel="stylesheet" href="./public/css/animation.css">
+    <link rel="icon" href="/images/logo-icon.png">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/page-landing.css">
+    <link rel="stylesheet" href="css/animation.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
 
     
